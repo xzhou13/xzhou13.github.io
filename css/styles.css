@@ -7758,7 +7758,7 @@ button.bg-black:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 2rem !important;
+  margin-bottom: 1rem !important;
 }
 
 .ml-5,
@@ -10271,7 +10271,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   padding-bottom: 30rem;
   background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%);
 }
@@ -10309,16 +10309,19 @@ body {
 }
 
 .resume-section{
-   padding: 3rem 0;
+   padding: 2rem 0;
+}
+.resume-section h2{
+   font-size: 1.2rem;
 }
 .resume-section h3{
-   font-size: 1.75rem;
+   font-size: 1rem;
    font-weight: 600;
    color: #1d685f;
    margin-bottom: 10px;
 }
 .resume-section h5{
-   font-size: 1.25rem;
+   font-size: 0.93rem;
    font-weight: 600;
    color: #1d685f;
 }
