@@ -10321,12 +10321,12 @@ body {
    font-size: 1.25rem;
    font-weight: 600;
 }
-.resume-section h4{
+.resume-bullet{
    font-size: 1rem;
    font-weight: 600;
    color: #1d685f;
 }
-.resume-section h5{
+.resume-date{
    font-size: 0.93rem;
    font-weight: 600;
    color: #1d685f;
