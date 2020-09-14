@@ -10237,6 +10237,10 @@ body {
 @media only screen and (max-width: 767px){
    .masthead{
       background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/profile_picture2.jpg");
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-size: cover;
    }
 }
 .masthead h1 {
