@@ -10234,6 +10234,11 @@ body {
   background-attachment: scroll;
   background-size: cover;
 }
+@media only screen and (max-width: 767px){
+   .masthead{
+      background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/profile_picture2.jpg");
+   }
+}
 .masthead h1 {
   font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 2.5rem;
