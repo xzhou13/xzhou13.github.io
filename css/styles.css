@@ -10235,7 +10235,7 @@ body {
   background-size: cover;
 }
 
-@media only screen and (min-width: 1900px){
+@media only screen and (min-width: 1350px){
    .masthead{
       background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url("../assets/img/profile_picture.jpg");
       background-position: center center;
